@@ -45,4 +45,4 @@ TEST CASE:
                         Process 2 swapped array[1] and array[2] with values d and m respectively.
                         Array after sorting: admwxyz
 
-and same for the 'QHtbUSa' as seen in the report.
+and same for the 'QHtbUSa'
